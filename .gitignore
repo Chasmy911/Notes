@@ -8,7 +8,6 @@
 
 # testing
 /coverage
-package-lock.json
 README.md
 tsconfig.json
 env.txt
